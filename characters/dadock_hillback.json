@@ -1,0 +1,36 @@
+{
+    "name": "Dadock_Hillback",
+    "id": "dadock_hillback",
+    "stats": {
+        "str": {
+            "initial": 57,
+            "advances": 0,
+            "current": 57
+        },
+        "to": {
+            "initial": 30,
+            "advances": 0,
+            "current": 30
+        },
+        "ag": {
+            "initial": 26,
+            "advances": 0,
+            "current": 26
+        },
+        "int": {
+            "initial": 25,
+            "advances": 0,
+            "current": 25
+        },
+        "wp": {
+            "initial": 26,
+            "advances": 0,
+            "current": 26
+        },
+        "fel": {
+            "initial": 41,
+            "advances": 0,
+            "current": 41
+        }
+    }
+}

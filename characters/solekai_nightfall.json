@@ -1,0 +1,36 @@
+{
+    "name": "Solekai Nightfall",
+    "id": "solekai_nightfall",
+    "stats": {
+        "str": {
+            "initial": 30,
+            "advances": 0,
+            "current": 30
+        },
+        "to": {
+            "initial": 34,
+            "advances": 0,
+            "current": 34
+        },
+        "ag": {
+            "initial": 22,
+            "advances": 0,
+            "current": 22
+        },
+        "int": {
+            "initial": 60,
+            "advances": 0,
+            "current": 60
+        },
+        "wp": {
+            "initial": 26,
+            "advances": 0,
+            "current": 26
+        },
+        "fel": {
+            "initial": 26,
+            "advances": 0,
+            "current": 26
+        }
+    }
+}

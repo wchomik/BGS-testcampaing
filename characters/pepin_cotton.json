@@ -1,0 +1,36 @@
+{
+    "name": "Pepin Cotton",
+    "id": "pepin_cotton",
+    "stats": {
+        "str": {
+            "initial": 21,
+            "advances": 0,
+            "current": 21
+        },
+        "to": {
+            "initial": 34,
+            "advances": 0,
+            "current": 34
+        },
+        "ag": {
+            "initial": 47,
+            "advances": 0,
+            "current": 47
+        },
+        "int": {
+            "initial": 33,
+            "advances": 0,
+            "current": 33
+        },
+        "wp": {
+            "initial": 39,
+            "advances": 0,
+            "current": 39
+        },
+        "fel": {
+            "initial": 43,
+            "advances": 0,
+            "current": 43
+        }
+    }
+}
