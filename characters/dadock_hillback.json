@@ -1,36 +1,107 @@
 {
-    "name": "Dadock_Hillback",
     "id": "dadock_hillback",
+    "name": "Dadock Hillback",
+    "race": "Dwarf",
+    "gender": "male",
+    "age": "68",
+    "height": "140",
+    "weight": "80",
+    "hair": "brown",
+    "career": "",
     "stats": {
-        "str": {
-            "initial": 57,
-            "advances": 0,
-            "current": 57
+        "main": {
+            "weapon": {
+                "starting": 21,
+                "advance": 5,
+                "taken": 1,
+                "current": 26
+            },
+            "ballistic": {
+                "starting": 34,
+                "advance": 5,
+                "taken": 0,
+                "current": 34
+            },
+            "strength": {
+                "starting": 21,
+                "advance": 5,
+                "taken": 1,
+                "current": 26
+            },
+            "toughness": {
+                "starting": 21,
+                "advance": 5,
+                "taken": 1,
+                "current": 26
+            },
+            "agility": {
+                "starting": 47,
+                "advance": 5,
+                "taken": 0,
+                "current": 47
+            },
+            "intelligence": {
+                "starting": 33,
+                "advance": 5,
+                "taken": 0,
+                "current": 33
+            },
+            "will": {
+                "starting": 39,
+                "advance": 5,
+                "taken": 0,
+                "current": 39
+            },
+            "fellowship": {
+                "starting": 43,
+                "advance": 5,
+                "taken": 1,
+                "current": 48
+            }
         },
-        "to": {
-            "initial": 30,
-            "advances": 1,
-            "current": 35
-        },
-        "ag": {
-            "initial": 26,
-            "advances": 0,
-            "current": 26
-        },
-        "int": {
-            "initial": 25,
-            "advances": 0,
-            "current": 25
-        },
-        "wp": {
-            "initial": 26,
-            "advances": 1,
-            "current": 31
-        },
-        "fel": {
-            "initial": 41,
-            "advances": 0,
-            "current": 41
+        "secondary": {
+            "attacks": {
+                "starting": 1,
+                "advance": 1,
+                "taken": 0,
+                "current": 1
+            },
+            "wounds": {
+                "starting": 13,
+                "advance": 2,
+                "taken": 0,
+                "current": 13
+            },
+            "strength_bonus": {
+                "no_advance": true,
+                "derived": "stats|main|strength|current"
+            },
+            "toughness_bonus": {
+                "no_advance": true,
+                "derived": "stats|main|toughness|current"
+            },
+            "movement": {
+                "starting": 34,
+                "advance": 5,
+                "taken": 0,
+                "current": 34
+            },
+            "magic": {
+                "starting": 34,
+                "advance": 5,
+                "taken": 0,
+                "current": 34
+            },
+            "insanity_points": {
+                "starting": 34,
+                "no_advance": true,
+                "current": 34
+            },
+            "fate_points": {
+                "starting": 34,
+                "no_advance": true,
+                "current": 34
+            }
         }
     }
 }

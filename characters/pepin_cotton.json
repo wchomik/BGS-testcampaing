@@ -1,36 +1,107 @@
 {
-    "name": "Pepin Cotton",
     "id": "pepin_cotton",
+    "name": "Pepin Cotton",
+    "race": "Hobbit",
+    "gender": "male",
+    "age": "27",
+    "height": "121",
+    "weight": "58",
+    "hair": "red",
+    "career": "",
     "stats": {
-        "str": {
-            "initial": 21,
-            "advances": 1,
-            "current": 26
+        "main": {
+            "weapon": {
+                "starting": 21,
+                "advance": 5,
+                "taken": 1,
+                "current": 26
+            },
+            "ballistic": {
+                "starting": 34,
+                "advance": 5,
+                "taken": 0,
+                "current": 34
+            },
+            "strength": {
+                "starting": 21,
+                "advance": 5,
+                "taken": 1,
+                "current": 26
+            },
+            "toughness": {
+                "starting": 21,
+                "advance": 5,
+                "taken": 1,
+                "current": 26
+            },
+            "agility": {
+                "starting": 47,
+                "advance": 5,
+                "taken": 0,
+                "current": 47
+            },
+            "intelligence": {
+                "starting": 33,
+                "advance": 5,
+                "taken": 0,
+                "current": 33
+            },
+            "will": {
+                "starting": 39,
+                "advance": 5,
+                "taken": 0,
+                "current": 39
+            },
+            "fellowship": {
+                "starting": 43,
+                "advance": 5,
+                "taken": 1,
+                "current": 48
+            }
         },
-        "to": {
-            "initial": 34,
-            "advances": 0,
-            "current": 34
-        },
-        "ag": {
-            "initial": 47,
-            "advances": 0,
-            "current": 47
-        },
-        "int": {
-            "initial": 33,
-            "advances": 0,
-            "current": 33
-        },
-        "wp": {
-            "initial": 39,
-            "advances": 0,
-            "current": 39
-        },
-        "fel": {
-            "initial": 43,
-            "advances": 1,
-            "current": 48
+        "secondary": {
+            "attacks": {
+                "starting": 1,
+                "advance": 1,
+                "taken": 0,
+                "current": 1
+            },
+            "wounds": {
+                "starting": 13,
+                "advance": 2,
+                "taken": 0,
+                "current": 13
+            },
+            "strength_bonus": {
+                "no_advance": true,
+                "derived": "stats|main|strength|current"
+            },
+            "toughness_bonus": {
+                "no_advance": true,
+                "derived": "stats|main|toughness|current"
+            },
+            "movement": {
+                "starting": 34,
+                "advance": 5,
+                "taken": 0,
+                "current": 34
+            },
+            "magic": {
+                "starting": 34,
+                "advance": 5,
+                "taken": 0,
+                "current": 34
+            },
+            "insanity_points": {
+                "starting": 34,
+                "no_advance": true,
+                "current": 34
+            },
+            "fate_points": {
+                "starting": 34,
+                "no_advance": true,
+                "current": 34
+            }
         }
     }
 }
