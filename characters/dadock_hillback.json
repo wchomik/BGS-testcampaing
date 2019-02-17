@@ -1,6 +1,6 @@
 {
     "id": "dadock_hillback",
-    "name": "Dadock_Hillback",
+    "name": "Dadock Hillback",
     "race": "Dwarf",
     "gender": "male",
     "age": "68",
@@ -74,11 +74,11 @@
             },
             "strength_bonus": {
                 "no_advance": true,
-                "derived": "strength"
+                "derived": "main|strength"
             },
             "toughness_bonus": {
                 "no_advance": true,
-                "derived": "toughness"
+                "derived": "main|toughness"
             },
             "movement": {
                 "starting": 34,

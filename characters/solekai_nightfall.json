@@ -74,11 +74,11 @@
             },
             "strength_bonus": {
                 "no_advance": true,
-                "derived": "strength"
+                "derived": "main|strength"
             },
             "toughness_bonus": {
                 "no_advance": true,
-                "derived": "toughness"
+                "derived": "main|toughness"
             },
             "movement": {
                 "starting": 34,

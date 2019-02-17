@@ -1,7 +1,13 @@
 {
     "id": "pepin_cotton",
     "name": "Pepin Cotton",
-    "race": "hobbit",
+    "race": "Hobbit",
+    "gender": "male",
+    "age": "27",
+    "height": "121",
+    "weight": "58",
+    "hair": "red",
+    "career": "",
     "stats": {
         "main": {
             "weapon": {
@@ -68,11 +74,11 @@
             },
             "strength_bonus": {
                 "no_advance": true,
-                "derived": "strength"
+                "derived": "main|strength"
             },
             "toughness_bonus": {
                 "no_advance": true,
-                "derived": "toughness"
+                "derived": "main|toughness"
             },
             "movement": {
                 "starting": 34,
