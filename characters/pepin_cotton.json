@@ -4,8 +4,8 @@
     "stats": {
         "str": {
             "initial": 21,
-            "advances": 0,
-            "current": 21
+            "advances": 1,
+            "current": 26
         },
         "to": {
             "initial": 34,
@@ -29,8 +29,8 @@
         },
         "fel": {
             "initial": 43,
-            "advances": 0,
-            "current": 43
+            "advances": 1,
+            "current": 48
         }
     }
 }

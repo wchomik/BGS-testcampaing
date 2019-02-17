@@ -9,8 +9,8 @@
         },
         "to": {
             "initial": 30,
-            "advances": 0,
-            "current": 30
+            "advances": 1,
+            "current": 35
         },
         "ag": {
             "initial": 26,
@@ -24,8 +24,8 @@
         },
         "wp": {
             "initial": 26,
-            "advances": 0,
-            "current": 26
+            "advances": 1,
+            "current": 31
         },
         "fel": {
             "initial": 41,

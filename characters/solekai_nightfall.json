@@ -14,8 +14,8 @@
         },
         "ag": {
             "initial": 22,
-            "advances": 0,
-            "current": 22
+            "advances": 1,
+            "current": 27
         },
         "int": {
             "initial": 60,
@@ -24,8 +24,8 @@
         },
         "wp": {
             "initial": 26,
-            "advances": 0,
-            "current": 26
+            "advances": 1,
+            "current": 31
         },
         "fel": {
             "initial": 26,
