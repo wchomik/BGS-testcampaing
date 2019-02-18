@@ -103,5 +103,58 @@
                 "current": 34
             }
         }
+    },
+    "skills": {
+        "basic": {
+            "animal_care": 1,
+            "charm": 0,
+            "command": 0,
+            "concealment": 0,
+            "consume_alcohol": 0,
+            "disguise": 0,
+            "drive": 0,
+            "evaluate": 1,
+            "gamble": 0,
+            "gossip": 0,
+            "haggle": 0,
+            "intimidate": 2,
+            "outdoor_survival": 1,
+            "perception": 0,
+            "ride": 0,
+            "row": 0,
+            "scale_sheer_surface": 0,
+            "search": 0,
+            "silent_move": 0,
+            "swim": 0
+        },
+        "advanced": {
+            "academic_knowledge": 0,
+            "animal_training": 0,
+            "blather": 0,
+            "channelling": 0,
+            "charm_animal": 0,
+            "common_knowledge": 0,
+            "dodge_blow": 1,
+            "follow_trail": 0,
+            "heal": 0,
+            "hypnotism": 0,
+            "lip_reading": 0,
+            "magical_sense": 0,
+            "navigation": 0,
+            "performer": 0,
+            "pick_lock": 0,
+            "prepare_poison": 0,
+            "readwrite": 0,
+            "sail": 0,
+            "secret_language": 0,
+            "secret_signs": 0,
+            "set_trap": 0,
+            "shadowing": 0,
+            "sleight_of_hand": 0,
+            "speak_language": 0,
+            "torture": 0,
+            "trade": 0,
+            "ventriloquism": 0
+        }
     }
 }
