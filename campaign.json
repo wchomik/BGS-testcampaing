@@ -1,4 +1,5 @@
 {
     "name": "Od zera do bohatera",
+    "system": "wfrp2",
     "character_sheets": [ "dadock_hillback.json", "pepin_cotton.json", "solekai_nightfall.json" ]
 }
