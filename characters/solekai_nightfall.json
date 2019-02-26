@@ -6,27 +6,36 @@
     "age": "41",
     "height": "184",
     "weight": "82",
-    "hair": "black",
-    "career": "",
+    "hair": "Czarne",
+    "eyes": "Szare",
+    "distinguishing_marks": "Wyjątkowo blada cera",
+    "star_sign": "Wódka",
+    "birthplace": "Kislev",
+    "family": "",
+    "career_path": "",
+    "disorders": "Depresja",
+    "scars": "",
+    "background": "Gdy cmentarza bramy otula zmrok . ja na czarną mszę swój kieruje krok . Nadszedł czas wyruszam już . Biorę tylko kał i rytualny nóż . Grobów las, wzywa nas . Już dziewicę zarżnąć czas . Demon zły, dwa kozły . W mosznę swą zagłębiam kły . Dla szatana chwały . To mroczne rytuały . To jest czarna msza, czarna msza . Spermę ktoś wyliże . Płoną odwrócone krzyże . To jest czarna msza, czarna msza . A! A! A! A! . Czarna msza, czarna msza . A! A! A! A! . Czarna msza . Gdy pogańskie hordy ciągną odbyt swój . Wtedy pentagram kapłan wbija w chuj . Czarny łój opala się . Sam wielmożny Beliar płody piłą rżnie . Racic stuk, macic wróg . Swoją babcię rucha wnuk . Ołtarz drga, wiedźma zła . Między uda spuszcza psa.",
+    "religion": "Morr",
     "stats": {
         "main": {
             "weapon": {
-                "starting": 21,
-                "advance": 5,
-                "taken": 1,
-                "current": 26
+                "starting": 25,
+                "advance": 0,
+                "taken": 0,
+                "current": 25
             },
             "ballistic": {
                 "starting": 34,
-                "advance": 5,
+                "advance": 0,
                 "taken": 0,
                 "current": 34
             },
             "strength": {
-                "starting": 21,
-                "advance": 5,
-                "taken": 1,
-                "current": 26
+                "starting": 27,
+                "advance": 0,
+                "taken": 0,
+                "current": 27
             },
             "toughness": {
                 "starting": 21,
@@ -41,10 +50,10 @@
                 "current": 47
             },
             "intelligence": {
-                "starting": 33,
-                "advance": 5,
-                "taken": 0,
-                "current": 33
+                "starting": 40,
+                "advance": 10,
+                "taken": 2,
+                "current": 50
             },
             "will": {
                 "starting": 39,
@@ -53,10 +62,10 @@
                 "current": 39
             },
             "fellowship": {
-                "starting": 43,
+                "starting": 38,
                 "advance": 5,
                 "taken": 1,
-                "current": 48
+                "current": 43
             }
         },
         "secondary": {
@@ -72,14 +81,6 @@
                 "taken": 0,
                 "current": 13
             },
-            "strength_bonus": {
-                "no_advance": true,
-                "derived": "stats|main|strength|current"
-            },
-            "toughness_bonus": {
-                "no_advance": true,
-                "derived": "stats|main|toughness|current"
-            },
             "movement": {
                 "starting": 34,
                 "advance": 5,
@@ -93,14 +94,14 @@
                 "current": 34
             },
             "insanity_points": {
-                "starting": 34,
+                "starting": 4,
                 "no_advance": true,
-                "current": 34
+                "current": 4
             },
             "fate_points": {
-                "starting": 34,
+                "starting": 2,
                 "no_advance": true,
-                "current": 34
+                "current": 2
             }
         }
     },
@@ -111,7 +112,7 @@
             "command": 0,
             "concealment": 0,
             "consume_alcohol": 0,
-            "disguise": 0,
+            "disguise": 2,
             "drive": 0,
             "evaluate": 0,
             "gamble": 0,
