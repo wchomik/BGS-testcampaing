@@ -2,61 +2,71 @@
     "id": "dadock_hillback",
     "name": "Dadock Hillback",
     "race": "Dwarf",
-    "gender": "male",
+    "sex": "mężczyzna",
     "age": "68",
     "height": "140",
     "weight": "80",
-    "hair": "brown",
-    "career": "",
+    "hair": "Brunet",
+    "career": "Porywacz Zwłok",
+    "eyes": "Brązowe",
+    "distinguishing_marks": "Zez",
+    "star_sign": "Kopytko",
+    "birthplace": "Karaz-a-Karak",
+    "family": "Brat i siostra",
+    "career_path": "",
+    "disorders": "",
+    "scars": "Blizna nad okiem",
+    "background": "Brothers of the mine rejoice. Swing, swing, swing with me. Raise your pick and raise your voice. Sing, sing, sing with me. Down and down into the deep. Who knows what we'll find beneath?. Diamonds, rubies, gold and more. Hidden in the mountain store. Born underground, suckled from a teat of stone. Raised in the dark, the safety of our mountain home. Skin made of iron, steel in our bones. To dig and dig makes us free. Come on brothers sing with me. I am a dwarf and I'm digging a hole. Diggy diggy hole, diggy diggy hole. I am a dwarf and I'm digging a hole. Diggy diggy hole, digging a hole. The sunlight will not reach this low. Deep, deep in the mine. Never seen the blue moon glow. Dwarves won't fly so high. Fill a glass and down some mead. Stuff your bellies at the feast!",
+    "religion": "Grungni",
     "stats": {
         "main": {
             "weapon": {
-                "starting": 21,
-                "advance": 5,
+                "starting": 48,
+                "advance": 10,
                 "taken": 1,
-                "current": 26
+                "current": 53
             },
             "ballistic": {
                 "starting": 34,
-                "advance": 5,
+                "advance": 0,
                 "taken": 0,
                 "current": 34
             },
             "strength": {
-                "starting": 21,
-                "advance": 5,
+                "starting": 39,
+                "advance": 10,
                 "taken": 1,
-                "current": 26
+                "current": 44
             },
             "toughness": {
-                "starting": 21,
+                "starting": 37,
                 "advance": 5,
-                "taken": 1,
-                "current": 26
+                "taken": 0,
+                "current": 37
             },
             "agility": {
-                "starting": 47,
-                "advance": 5,
+                "starting": 28,
+                "advance": 0,
                 "taken": 0,
-                "current": 47
+                "current": 28
             },
             "intelligence": {
-                "starting": 33,
-                "advance": 5,
+                "starting": 24,
+                "advance": 0,
                 "taken": 0,
-                "current": 33
+                "current": 24
             },
             "will": {
                 "starting": 39,
-                "advance": 5,
+                "advance": 0,
                 "taken": 0,
                 "current": 39
             },
             "fellowship": {
-                "starting": 43,
-                "advance": 5,
-                "taken": 1,
-                "current": 48
+                "starting": 32,
+                "advance": 0,
+                "taken": 0,
+                "current": 32
             }
         },
         "secondary": {
@@ -72,14 +82,6 @@
                 "taken": 0,
                 "current": 13
             },
-            "strength_bonus": {
-                "no_advance": true,
-                "derived": "stats|main|strength|current"
-            },
-            "toughness_bonus": {
-                "no_advance": true,
-                "derived": "stats|main|toughness|current"
-            },
             "movement": {
                 "starting": 34,
                 "advance": 5,
@@ -93,27 +95,27 @@
                 "current": 34
             },
             "insanity_points": {
-                "starting": 34,
+                "starting": 1,
                 "no_advance": true,
-                "current": 34
+                "current": 1
             },
             "fate_points": {
-                "starting": 34,
+                "starting": 4,
                 "no_advance": true,
-                "current": 34
+                "current": 4
             }
         }
     },
     "skills": {
         "basic": {
-            "animal_care": 1,
+            "animal_care": 0,
             "charm": 0,
             "command": 0,
             "concealment": 0,
             "consume_alcohol": 0,
             "disguise": 0,
-            "drive": 0,
-            "evaluate": 1,
+            "drive": 1,
+            "evaluate": 0,
             "gamble": 0,
             "gossip": 0,
             "haggle": 0,
