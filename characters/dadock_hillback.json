@@ -158,5 +158,11 @@
             "trade": 0,
             "ventriloquism": 0
         }
+    },
+    "talents": {
+        "acute_hearing": 1,
+        "disarm": 1,
+        "keen_senses": 1,
+        "hardy": 1
     }
 }
