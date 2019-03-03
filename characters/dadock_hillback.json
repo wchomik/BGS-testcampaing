@@ -1,6 +1,7 @@
 {
     "id": "dadock_hillback",
     "name": "Dadock Hillback",
+    "portrait": "dadock_hillback.jpg",
     "race": "Krasnolud",
     "sex": "mężczyzna",
     "age": "68",
