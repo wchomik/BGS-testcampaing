@@ -163,6 +163,12 @@
         "acute_hearing": 1,
         "disarm": 1,
         "keen_senses": 1,
-        "hardy": 1
+        "hardy": 1,
+        "very_resilient": 1,
+        "very_strong": 1,
+        "warrior_born": 1,
+        "stouthearted": 1,
+        "street_fighting": 1,
+        "dwarfcraft": 1
     }
 }
