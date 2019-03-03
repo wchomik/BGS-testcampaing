@@ -158,5 +158,18 @@
             "trade": 0,
             "ventriloquism": 0
         }
+    },
+    "talents": {
+        "acute_hearing": 1,
+        "alley_cat": 1,
+        "ambidextrous": 1,
+        "contortionist": 1,
+        "coolheaded": 1,
+        "flee": 1,
+        "fleet_footed": 1,
+        "luck": 1,
+        "marksman": 1,
+        "mimic": 1,
+        "suave": 1
     }
 }
