@@ -1,6 +1,7 @@
 {
     "id": "pepin_cotton",
     "name": "Pepin Cotton",
+    "portrait": "pepin_cotton.jpg",
     "race": "Niziołek",
     "sex": "mężczyzna",
     "age": "27",

@@ -1,6 +1,7 @@
 {
-    "name": "Solekai Nightfall",
     "id": "solekai_nightfall",
+    "name": "Solekai Nightfall",
+    "portrait": "solekai_nightfall.jpg",
     "race": "Człowiek",
     "gender": "male",
     "age": "41",
