@@ -171,5 +171,23 @@
         "stouthearted": 1,
         "street_fighting": 1,
         "dwarfcraft": 1
-    }
+    },
+    "weapons": [
+        {
+            "name": "Zatruty nóż",
+            "group": "ordinary_grp",
+            "damage": "S-3",
+            "range": 0,
+            "qualities": ["none"],
+            "desc": "Ten nóż jest zatruty"
+        },
+        {
+            "name": "Miecz dwuręczny",
+            "group": "twohanded_grp",
+            "damage": "S",
+            "range": 0,
+            "qualities": ["impact", "slow"],
+            "desc": "Stary dwuręczny miecz"
+        }
+    ]
 }
