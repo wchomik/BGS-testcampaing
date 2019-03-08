@@ -19,6 +19,10 @@
     "scars": "",
     "background": "My jesteśmy krasnoludki, hopsa sa, hopsa sa, pod grzybkami nasze budki, hopsa sa, hopsa sa, jemy mrówki, żabkie łapki, oj tak tak, oj tak tak, a na głowach krasne czapki, to nasz, to nasz znak. Gdy ktoś zbłądzi, to trąbimy, trutu tu, trutu tu, gdy ktoś senny, to uśpimy, lulu lulu lu, gdy ktoś skrzywdzi krasnoludka, ajajaj, ajajaj, to zapłacze niezabudka, uuuuu.",
     "religion": "Rhya",
+    "exp": {
+        "total": 630,
+        "spent": 600
+    },
     "stats": {
         "main": {
             "weapon": {
@@ -172,5 +176,28 @@
         "marksman": 1,
         "mimic": 1,
         "suave": 1
-    }
+    },
+    "weapons": [
+        {
+            "name": "Proca",
+            "group": "sling_grp",
+            "damage": "3",
+            "range": 0,
+            "qualities": ["none"],
+            "desc": "Ten nóż jest zatruty"
+        }
+    ],
+    "armour": [
+        {
+            "name": "Skórzna kurta",
+            "locations": ["body","arms"],
+            "ap": 1,
+            "desc": "Podniszcznoa skórzana kurtka"
+        }
+    ],
+    "inventory": [
+        "60 jaj",
+        "Srebrny naszyjnik",
+        "bukłak z piwem"
+    ]
 }
