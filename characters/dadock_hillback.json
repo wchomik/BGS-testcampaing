@@ -189,5 +189,25 @@
             "qualities": ["impact", "slow"],
             "desc": "Stary dwuręczny miecz"
         }
+    ],
+    "armour": [
+        {
+            "name": "Hełm stalowy",
+            "location": ["head"],
+            "ap": 2,
+            "desc": "Stary hełm, zrobiony prawdopodbnie z garnka"
+        },
+        {
+            "name": "Kolczuga z rękawami",
+            "locations": ["body","arms","legs"],
+            "ap": 2,
+            "desc": "Zwykły kaftan kolczy"
+        }
+    ],
+    "inventory": [
+        "kilof",
+        "miedziany pierścień",
+        "bohen",
+        "bukłak z piwem"
     ]
 }
