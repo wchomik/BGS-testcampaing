@@ -3,7 +3,7 @@
     "name": "Solekai Nightfall",
     "portrait": "solekai_nightfall.jpg",
     "race": "Człowiek",
-    "gender": "male",
+    "sex": "male",
     "age": "41",
     "height": "184",
     "weight": "82",
@@ -13,11 +13,16 @@
     "star_sign": "Wódka",
     "birthplace": "Kislev",
     "family": "",
+    "career": "Porywacz zwłok",
     "career_path": "",
     "disorders": "Depresja",
     "scars": "",
     "background": "Gdy cmentarza bramy otula zmrok . ja na czarną mszę swój kieruje krok . Nadszedł czas wyruszam już . Biorę tylko kał i rytualny nóż . Grobów las, wzywa nas . Już dziewicę zarżnąć czas . Demon zły, dwa kozły . W mosznę swą zagłębiam kły . Dla szatana chwały . To mroczne rytuały . To jest czarna msza, czarna msza . Spermę ktoś wyliże . Płoną odwrócone krzyże . To jest czarna msza, czarna msza . A! A! A! A! . Czarna msza, czarna msza . A! A! A! A! . Czarna msza . Gdy pogańskie hordy ciągną odbyt swój . Wtedy pentagram kapłan wbija w chuj . Czarny łój opala się . Sam wielmożny Beliar płody piłą rżnie . Racic stuk, macic wróg . Swoją babcię rucha wnuk . Ołtarz drga, wiedźma zła . Między uda spuszcza psa.",
     "religion": "Morr",
+    "exp": {
+        "total": 715,
+        "spent": 600
+    },
     "stats": {
         "main": {
             "weapon": {
@@ -180,5 +185,21 @@
         "tunnel_rat": 1,
         "undead": 1,
         "unsettling": 1
-    }
+    },
+    "weapons": [
+        {
+            "name": "Kij",
+            "group": "ordinary_grp",
+            "damage": "3",
+            "range": 0,
+            "qualities": ["pummelling","defensive"],
+            "desc": "Kostur"
+        }
+    ],
+    "armour": [],
+    "inventory": [
+        "Księga ognistej zemsty zbolałego serca",
+        "Księga alchemiczna",
+        "Torba z ziołami"
+    ]
 }
