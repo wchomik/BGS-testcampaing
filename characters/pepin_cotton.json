@@ -8,12 +8,12 @@
     "height": "121",
     "weight": "58",
     "hair": "Rude",
-    "career": "Żak",
     "eyes": "Zielone",
     "distinguishing_marks": "Odstające uszy",
     "star_sign": "Bochen",
     "birthplace": "Kraina Zgromadzenia",
     "family": "Dziesięciu braci i siedem sióstr, rodzice, wójostwo i nie wiadomo ilu kuzynów",
+    "career": "Żak",
     "career_path": "",
     "disorders": "Alkoholizm",
     "scars": "",
@@ -196,8 +196,15 @@
         }
     ],
     "inventory": [
-        "60 jaj",
-        "Srebrny naszyjnik",
-        "bukłak z piwem"
+        {
+            "name": "60 jaj"
+        },
+        {
+            "name": "Srebrny naszyjnik"
+        },
+        {
+            "name": "bukłak z piwem",
+            "desc": "pusty"
+        }
     ]
 }

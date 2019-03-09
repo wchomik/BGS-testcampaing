@@ -209,9 +209,18 @@
         }
     ],
     "inventory": [
-        "kilof",
-        "miedziany pierścień",
-        "bohen",
-        "bukłak z piwem"
+        {
+            "name": "Kilof"
+        },
+        {
+            "name": "Złoty pierścień",
+            "desc": "Pierścień z herbem rodu Hohenzolernów. Hans H. prosił aby zanieść go do Rudolfa jako dowód."
+        },
+        {
+            "name": "bohen"
+        },
+        {
+            "name": "bukłak z piwem"
+        }
     ]
 }
