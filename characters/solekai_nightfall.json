@@ -208,5 +208,10 @@
         {
             "name": "Torba z ziołami"
         }
-    ]
+    ],
+    "coins": {
+        "crowns": 110,
+        "shillings": 16,
+        "pennies": 5
+    }
 }

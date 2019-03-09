@@ -206,5 +206,10 @@
             "name": "bukłak z piwem",
             "desc": "pusty"
         }
-    ]
+    ],
+    "coins": {
+        "crowns": 1,
+        "shillings": 2,
+        "pennies": 10
+    }
 }
