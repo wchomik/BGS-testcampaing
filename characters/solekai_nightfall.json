@@ -198,8 +198,20 @@
     ],
     "armour": [],
     "inventory": [
-        "Księga ognistej zemsty zbolałego serca",
-        "Księga alchemiczna",
-        "Torba z ziołami"
-    ]
+        {
+            "name": "Księga ognistej zemsty zbolałego serca",
+            "desc": "Księga z opisem rytuału. Za jej posiadanie może zostać spalonym na stosie"
+        },
+        {
+            "name": "Księga alchemiczna"
+        },
+        {
+            "name": "Torba z ziołami"
+        }
+    ],
+    "coins": {
+        "crowns": 110,
+        "shillings": 16,
+        "pennies": 5
+    }
 }
